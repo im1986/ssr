@@ -2,20 +2,22 @@
 ====
 ##一键代码<br>
 ###sudo bash ssr<br>
-混淆参数
-====
-##联通<br>
+##混淆参数
+联通<br>
+------
 ①m.10010.com<br>
 ②m.10010.com/r/nX-Online-Host:m.10010.com<br>
 ③m.10010.com<br>
 X-Online-Host:m.10010.com<br>
 其中m.10010.com可更改成wap.10010.com<br>
-##移动<br>
+移动<br>
+------
 ①wap.10086.cn<br>
 ②wap.10086.cn/r/nX-Online-Host:wap.10086.cn<br>
 ③wap.10086.cn<br>
 X-Online-Host:wap.10086.cn<br>
-##电信<br>
+电信<br>
+------
 ①wap.10000.cn<br>
 ②wap.10000.cn/r/nX-Online-Host:wap.10000.cn<br>
 ③wap.10000.cn<br>
