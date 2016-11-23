@@ -1,7 +1,8 @@
 #SSR/系统为ceonst/Debaian<br>
 ====
 ##一键代码<br>
-###sudo bash ssr<br>
+###安装 sudo bash ssr<br>
+###卸载 sudo bash ssr uninstall<br>
 ##混淆参数
 联通<br>
 ------
