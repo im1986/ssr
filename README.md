@@ -25,6 +25,6 @@ X-Online-Host:wap.10086.cn<br>
 X-Online-Host:wap.10000.cn<br>
 ##视频教程：
 ###[教程](http://wap.youshixiu.com/video/play/8b890d9334734609d964cd3739e13c02?plg_nld=1&plg_uin=1&plg_nld=1&plg_usr=1&plg_vkey=1&plg_dev=1)
-##手机端
+##手机端：
 安卓：https://telegram.me/shadowsocksr<br>
 苹果软件使用的就是土豆丝（Surge替代品Potatso）<br>
